@@ -16,8 +16,8 @@ Antes de começar, verifique se você atende aos seguintes requisitos:
 1. Clone este repositório em sua máquina local:
 
     ```bash
-    git clone https://seu-repositorio.git
-    cd nome-do-seu-projeto
+    git clone https://github.com/WesleyRafaelp/contacts-api-graphQL.git
+    cd contacts-api-graphQL
     ```
 
 2. Instale as dependências do projeto:
