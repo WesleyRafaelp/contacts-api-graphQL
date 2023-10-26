@@ -1,0 +1,11 @@
+services:
+
+  db:
+    image: postgres:14.3
+    restart: always
+    environment:
+      POSTGRES_DB: contactsDb
+      POSTGRES_USER: root
+      POSTGRES_PASSWORD: example
+    ports:
+      - 5432:5432
